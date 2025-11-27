@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/CS-maker/static/css/main.a7219662.css",
-    "main.js": "/CS-maker/static/js/main.aa24d5c4.js",
+    "main.js": "/CS-maker/static/js/main.e53dd4e2.js",
     "static/js/453.dab3abcc.chunk.js": "/CS-maker/static/js/453.dab3abcc.chunk.js",
     "index.html": "/CS-maker/index.html",
     "main.a7219662.css.map": "/CS-maker/static/css/main.a7219662.css.map",
-    "main.aa24d5c4.js.map": "/CS-maker/static/js/main.aa24d5c4.js.map",
+    "main.e53dd4e2.js.map": "/CS-maker/static/js/main.e53dd4e2.js.map",
     "453.dab3abcc.chunk.js.map": "/CS-maker/static/js/453.dab3abcc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a7219662.css",
-    "static/js/main.aa24d5c4.js"
+    "static/js/main.e53dd4e2.js"
   ]
 }
